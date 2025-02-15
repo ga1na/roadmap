@@ -1,48 +1,24 @@
 
-<!-- TOC --><a name="roadmap-intro"></a>
-# Personal Roadmap for Computer Science and Web Development
+<!-- TOC --><a name="work-roadmap"></a>
+# Roadmap for Computer Science and Web Development
 
-### **Start date:** *15th of February 2025*
-### **Estimated end date:** *15th of June 2025*
+This is a compilation of all the resources I find important to study during the following months. The objective will be to spend a few hours a day, finishing the courses and applying what was learned by building projects.
 
-This is a compilation of all the important resources I have found for improving my programming skills. The objective will be to spend a few hours a day, finishing the courses and building multiple projects with what I have learned.
+A few of the resources here are going to be in spanish, fortunately there's plenty of other resources online in english for that same topic.
 
-The roadmap is split in 3:
- - A **work** section: Technologies I use at my current job and feel that a more in depth approach on my own is necessary.
- - A **web development** section: Technologies outside of my current job that I consider necessary to learn for better job prospects.
- - A **computer science** section: Traditional CS courses that would make me a better programmer.
+Roadmap sections:
+ - **Work**: Technologies I use at my current job and feel that a more in-depth approach on my own is necessary.
+ - **Web Development**: Technologies outside of my current job that I consider necessary to learn for future job prospects.
+ - **Computer Science**: Traditional CS courses that would make me a better programmer.
+ - **Miscellaneous**: Topics not specific to programming but necessary to be studied along the way in the backgorund.
+ - **Projects**: Project ideas to be implemented along the way.
+ - **Books**: Books I consider important to read. 
 
-At the end there is a <a name="math-progression">Math Progression</a> section to be progressed at the sametime as the roadmaps, preferably finished before the computer science one.
-
-<!-- TOC start  -->
+<!-- TOC  -->
 ## Table of Contents
-- [Work Roadmap](#work-roadmap)
-
-- [Web Development Roadmap](#webdev-roadmap)
-  - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
-    - [Goal](#goal)
-    - [Instructions:](#instructions)
-  - [Tier 2 - Practice](#tier-2---practice)
-    - [Goal](#goal-1)
-    - [Tier 2 - Option 1 -  JavaScript via Bootcamp](#tier-2---option-1----javascript-via-bootcamp)
-      - [Instructions:](#instructions-1)
-    - [Tier 2 - Option 2 - Computer Science focus](#tier-2---option-2---computer-science-focus)
-      - [Instructions:](#instructions-2)
-  - [Tier 3 - Interview Prep](#tier-3---interview-prep)
-    - [Goal](#goal-2)
-    - [Instructions:](#instructions-3)
-  - [Tier 4 - Develop a Portfolio](#tier-4---develop-a-portfolio)
-    - [Goal](#goal-3)
-    - [Instructions:](#instructions-4)
-  - [Tier 5 - Dive Deeper](#tier-5---dive-deeper)
-    - [Goal](#goal-4)
-    - [Tier 5 - Focus Area - React](#tier-5---focus-area---react)
-      - [Instructions:](#instructions-5)
-    - [Tier 5 - Focus Area - Angular](#tier-5---focus-area---angular)
-      - [Instructions:](#instructions-6)
-    - [Tier 5 - Focus Area - Mathematics](#tier-5---focus-area---mathematics)
-    - [Tier 5 - Focus Area - Computer Science](#tier-5---focus-area---computer-science)
-- [Computer Science Roadmap](#cs-roadmap)
+- [Work Roadmap](/work.md)
+- [Web Development Roadmap](/webdev.md#web-development-roadmap)
+- [Computer Science Roadmap](/cs.md)
 - [Notes](#notes)
 
 
