@@ -281,8 +281,6 @@ Note: This focus area dives a bit deeper into nitty-gritty computer science topi
 <!-- TOC --><a name="notes"></a>
 ## Notes
 
-
-
 Before you start, please let me introduce a bit of my philosophy for learning how to be a top-notch programmer. 
 
 - always be learning 
@@ -319,23 +317,3 @@ Yeah, yeah, yeah, you can find a billion people on the internet who will tell yo
 
 ---
 
-<!-- TOC --><a name="math-progression"></a>
-# Math progression
-
-Khan Academy courses with all of the math sections that I require revision on.
-
-| Courses                                                                               | Status | Evidence |
-| :------------------------------------------------------------------------------------ | :----: | :------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
-| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
-| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
-| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |          |
-| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |          |
-| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |          |
-| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |          |
-| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |          |
-| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |          |
-| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |          |
