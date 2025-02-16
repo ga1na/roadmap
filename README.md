@@ -20,6 +20,8 @@ Roadmap sections:
 - [Web Development Roadmap](/webdev.md#web-development-roadmap)
 - [Computer Science Roadmap](/cs.md)
 - [Notes](#notes)
+- [Projects](/projects.md)
+- [Books](/books.md)
 
 
 
