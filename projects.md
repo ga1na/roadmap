@@ -1,0 +1,3 @@
+- Books and games tracking
+- Live chat in php
+- Put all these resources in a web page
